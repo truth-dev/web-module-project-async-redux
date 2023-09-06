@@ -1,11 +1,17 @@
-import React from 'react';
+import React from 'react'
 import './App.css';
 
+
+import Jokes from './components/jokes'
+
 function App() {
+
+
+
   return (
     <div className="App">
-      Async Redux Project
-    </div>
+      < Jokes />
+      </div>
   );
 }
 

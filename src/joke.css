@@ -1,0 +1,29 @@
+.main-page {
+   background-color: black;
+   border: 10rem; 
+   padding: 10rem;
+}
+
+ .main-page h1  {
+    
+    color: blueviolet ;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+     
+
+    
+}
+
+ .joke-container p {
+    display: flex;
+    flex: 50px;
+    background-color: lightgreen;
+    border: 1px solid rgb(225, 16, 16);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    
+   
+} 
+
